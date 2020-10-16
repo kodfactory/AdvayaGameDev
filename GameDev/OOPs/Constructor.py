@@ -23,6 +23,7 @@ class Computer:
         print(self.ram)
         print(self.rom)
         print(self.fps)
+        
 obj = Computer("4GB", "500GB", 200)
 
 # obj.getRAM()
